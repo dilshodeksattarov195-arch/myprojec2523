@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenserify",
+        "uuid": 17870409,
+        "checksum": "6dj37k"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
